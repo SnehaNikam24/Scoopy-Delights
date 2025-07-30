@@ -22,11 +22,7 @@ A responsive and interactive website built for **Scooped Moments**, a fictional 
 - **CSS3** – Custom styling, animations, responsive layout.
 - **JavaScript** – DOM interaction, form validation, theme toggling.
 
----
 
-## 📁 Folder Structure
-
-Scooped-Moments/ ├── index.html ├── about.html ├── services.html ├── contact.html ├── assets/ │   ├── images/ │   ├── videos/ │   └── icons/ ├── css/ │   └── style.css ├── js/ │   └── script.js └── README.md
 
 ---
 
@@ -34,8 +30,7 @@ Scooped-Moments/ ├── index.html ├── about.html ├── services.ht
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/scooped-moments.git
-
+   git clone https://github.com/SnehaNikam24/Scoopy-Delights.git
 2. Navigate to project directory:
 
 cd scooped-moments
