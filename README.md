@@ -64,9 +64,8 @@ Add screenshots here to make README more visual
 
 📞 Contact
 
-💻 Developed by: Sneha 
-📬 Email: [your-email@example.com]
-🌐 Portfolio: [Link if available]
+- 💻 Developed by: Sneha 
+- 📬 Email: snehanikam749@gmail.com
 
 
 ---
